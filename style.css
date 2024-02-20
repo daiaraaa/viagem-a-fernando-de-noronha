@@ -1,0 +1,26 @@
+
+h1{
+    color: white;
+    border: 5px solid darkgreen;
+    background-color: green;
+    border-radius:10px;
+    width: 800px;
+}
+
+img{
+    border: solid black;
+    border-radius: 15px;
+    border-style: double;
+}
+
+h3{
+    border: 5px solid darkgoldenrod;
+    border-radius: 10px;
+    background-color: goldenrod;
+    height: 25px;
+    width: 654px;
+}
+
+h2{
+    color:blue;
+}
